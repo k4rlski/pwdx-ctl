@@ -1,0 +1,2 @@
+[console_scripts]
+pwdx-ctl = pwdx_ctl.cli:cli
